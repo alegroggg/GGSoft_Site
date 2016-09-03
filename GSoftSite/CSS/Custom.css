@@ -1,0 +1,131 @@
+﻿
+.ninja {
+    width: 80%;
+    height: 50%;
+    left: 10%;
+    top: 20%;
+    vertical-align: middle;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0,0.9);
+    h2;
+
+{
+    /*text-align: center;*/
+    vertical-align: central;
+    padding: 10px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+
+p {
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+}
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../Font/Chunkfive.otf);
+}
+
+/*@font-face {
+    font-family: myFirstFont2;
+    src: url(../Font/JosefinSlab-SemiBold.ttf);
+}*/
+
+@font-face {
+    font-family: 'myFirstFont2';
+    src: url(../Font/OpenSans-Light.ttf);
+}
+.thumbnail {
+    background-color: transparent;
+    border: 0px;
+}
+
+
+.container-fluid {
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+
+@media only screen and (max-width: 767px)
+{
+#textField {
+        font-size: 2em;
+    }
+
+#owl-example {
+    font-size: 2.5em;
+}
+     #shopTitle2 {
+        display:none;
+    }
+
+      #shopTitle1 {
+        display:block;
+    }
+
+         #contentRow2 {
+        margin-left:0;width:100%;
+    }
+
+     #offerContent
+    {
+        left:0%;width:100%;
+    }
+}
+
+ 
+@media only screen and (min-width: 768px) {
+    #textField {
+        font-size: 4.5em;
+    }
+
+    #owl-example {
+    font-size: 4.5em;
+}
+
+    #shopTitle2 {
+        display:inline;
+    }
+
+    #shopTitle1 {
+        display:none;
+    }
+
+    #contentRow {
+        margin-left:10%;width:80%;
+    }
+
+    #offerContent
+    {
+        left:10%;width:80%;
+    }
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
