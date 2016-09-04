@@ -76,17 +76,6 @@
     <Content Include="CSS\landing-page.css" />
     <Content Include="CSS\owl.carousel.css" />
     <Content Include="CSS\owl.theme.css" />
-    <Content Include="Email\images\PROMO-GREEN2_00.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_01_01.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_01_02.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_01_04.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_02.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_04_01.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_07.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_09_01.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_09_02.jpg" />
-    <Content Include="Email\images\PROMO-GREEN2_09_03.jpg" />
-    <Content Include="Email\PROMO GREY.html" />
     <Content Include="en\index.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -152,9 +141,6 @@
     <Content Include="Font\JosefinSlab-SemiBold.ttf" />
     <Content Include="Font\OpenSans-Light.ttf" />
     <Content Include="Font\JosefinSlab-Light.ttf" />
-    <Content Include="Email\.DS_Store" />
-    <Content Include="Email\gg promo.cpf" />
-    <Content Include="Email\images\PROMO-GREEN2_02.psd" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
